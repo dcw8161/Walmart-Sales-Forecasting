@@ -20,12 +20,12 @@ Find the better ML model to forecast Walmart Sales.
       - The highest average sales amount to $29.5K, while the lowest average sales are at $5.7K.
   	
 6.	Yearly Variation in Avg. Sales:
-   I. 	In 2010, the highest average sales reach $208.1M.
-   II. 	Conversely, in 2012, the lowest average sales amount to $200M.
+      - In 2010, the highest average sales reach $208.1M.
+      - Conversely, in 2012, the lowest average sales amount to $200M.
   	
 7.	Sales Distribution by Holiday and Non-Holiday Periods:
-   I. 	Holiday sales constitute 7.5% of total sales.
-   II. 	Non-holiday sales account for 92.5%.
+      - Holiday sales constitute 7.5% of total sales.
+      - Non-holiday sales account for 92.5%.
   	
 8.	Average Weekly Sales by Store Types:
    I. 	The overall average weekly sales across the three store types are $14.0K.
