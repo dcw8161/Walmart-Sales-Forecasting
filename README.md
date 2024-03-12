@@ -28,23 +28,23 @@ Find the better ML model to forecast Walmart Sales.
       - Non-holiday sales account for 92.5%.
   	
 8.	Average Weekly Sales by Store Types:
-   I. 	The overall average weekly sales across the three store types are $14.0K.
-   II. 	Notably, this average surpasses the highest sales observed in store types C and B.
+      - The overall average weekly sales across the three store types are $14.0K.
+      - Notably, this average surpasses the highest sales observed in store types C and B.
 
 9.	Store Types:
-   I. 	There are three distinct store types.
-   II. 	Type A boasts the highest average weekly sales, amounting to $20.1K.
+      - There are three distinct store types.
+      - Type A boasts the highest average weekly sales, amounting to $20.1K.
 
 10.	Total Sales by Store Types:
-  I. 	Type A: Accounts for 64.28% of total sales.
-      i.	Holiday sales: 4.8%
-      ii.	Non-holiday sales: 59.48%
-  II. 	Type B: Contributes 29.7% to total sales.
-      i. 	Holiday sales: 2.28%
-      ii.	Non-holiday sales: 27.42%
-  III.	Type C: Represents 6.02% of total sales.
-      i. Holiday sales: 0.42%
-      ii.	Non-holiday sales: 5.6%
+      - Type A: Accounts for 64.28% of total sales.
+            - Holiday sales: 4.8%
+            - Non-holiday sales: 59.48%
+      - Type B: Contributes 29.7% to total sales.
+            - Holiday sales: 2.28%
+            - Non-holiday sales: 27.42%
+      - Type C: Represents 6.02% of total sales.
+            - Holiday sales: 0.42%
+            - Non-holiday sales: 5.6%
    	
 12.	Average Sizes of Store Types A, B, and C:
   I. 	Type A: Average size is 177,248.
