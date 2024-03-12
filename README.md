@@ -37,14 +37,14 @@ Find the better ML model to forecast Walmart Sales.
 
 10.	Total Sales by Store Types:
       - Type A: Accounts for 64.28% of total sales.
-            - Holiday sales: 4.8%
-            - Non-holiday sales: 59.48%
+            * Holiday sales: 4.8%
+            * Non-holiday sales: 59.48%
       - Type B: Contributes 29.7% to total sales.
-            - Holiday sales: 2.28%
-            - Non-holiday sales: 27.42%
+            * Holiday sales: 2.28%
+            * Non-holiday sales: 27.42%
       - Type C: Represents 6.02% of total sales.
-            - Holiday sales: 0.42%
-            - Non-holiday sales: 5.6%
+            * Holiday sales: 0.42%
+            * Non-holiday sales: 5.6%
    	
 12.	Average Sizes of Store Types A, B, and C:
   I. 	Type A: Average size is 177,248.
