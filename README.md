@@ -16,9 +16,9 @@ Find the better ML model to forecast Walmart Sales.
 4.	Years Considered in the Dataset: The data spans the years 2010, 2011, and 2012.
    
 5.	Top 5 Stores Based on Avg. Sales: 
-   I.	  Store numbers: 20, 4, 14, 13, and 2 exhibit the highest average sales.\n
-  	II.	The lowest average sales occur in stores 33, 44, 5, 36, and 38.
-   III.	The highest average sales amount to $29.5K, while the lowest average sales are at $5.7K.
+      I.	  Store numbers: 20, 4, 14, 13, and 2 exhibit the highest average sales.\n
+     	II.	The lowest average sales occur in stores 33, 44, 5, 36, and 38.
+      III.	The highest average sales amount to $29.5K, while the lowest average sales are at $5.7K.
   	
 7.	Yearly Variation in Avg. Sales:
    I. 	In 2010, the highest average sales reach $208.1M.
