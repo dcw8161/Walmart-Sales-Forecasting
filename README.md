@@ -37,8 +37,8 @@ Find the better ML model to forecast Walmart Sales.
 
 10.	Total Sales by Store Types:
       - Type A: Accounts for 64.28% of total sales.
-            * Holiday sales: 4.8%
-            * Non-holiday sales: 59.48%
+          - Holiday sales: 4.8%
+          - Non-holiday sales: 59.48%
       - Type B: Contributes 29.7% to total sales.
             * Holiday sales: 2.28%
             * Non-holiday sales: 27.42%
