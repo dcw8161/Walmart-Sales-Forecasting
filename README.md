@@ -5,9 +5,9 @@ The data set was taken from [KAGGLE](https://www.kaggle.com/datasets/aslanahmedo
 Find the better ML model to forecast Walmart Sales.
 
 ## Tools Used:
-Python and Python-Pandas
-Google Collab
-Tableau Visualizations
+1. Python and Python-Pandas
+2. Google Collab
+3. Tableau Visualizations
 
 ##EAD Insights:
 1.	Total Number of Stores: The dataset comprises 45 stores.
