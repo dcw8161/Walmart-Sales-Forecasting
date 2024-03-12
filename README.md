@@ -7,7 +7,7 @@ Find the better ML model to forecast Walmart Sales.
 ## Tools Used:
 1. Python and Python-Pandas
 2. Google Collab
-3. Tableau Visualizations
+3. Tableau Visualizations[EAD](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/WalmartSalesForecastingEDA/Story1?publish=yes)
 
 ##EAD Insights:
 1.	Total Number of Stores: The dataset comprises 45 stores.
