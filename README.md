@@ -9,7 +9,7 @@ Find the better ML model to forecast Walmart Sales.
 2. Google Collab
 3. Tableau Visualizations [EAD](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/WalmartSalesForecastingEDA/Story1?publish=yes)
 
-##EAD Insights:
+## EAD Insights:
 1.	Total Number of Stores: The dataset comprises 45 stores.
 2.	Total Number of Store Types: There are 3 distinct store types.
 3.	Total Number of Departments: Across all stores, there are 81 departments.
